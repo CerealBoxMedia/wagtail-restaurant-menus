@@ -5,6 +5,7 @@ with open('README.md') as f:
 
 setup(
     name='wagtailrestaurantmenus',
+    version="0.0.1",
     description='StreamField code blocks for the Wagtail CMS framework to easily create restaurant menus.',
     long_description=long_description,
     long_description_content_type='text/markdown',
